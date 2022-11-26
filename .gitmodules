@@ -1,0 +1,4 @@
+[submodule "mypersonalblog/public"]
+	path = mypersonalblog/public
+	url = https://github.com/Sakh1l/sakhil.github.io.git
+	branch = main
